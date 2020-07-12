@@ -1,4 +1,4 @@
-# Trabalho de probabilidade.
+# Trabalho da cadeira de probabilidade 2018.1
 
 A partir de um dataset fazer análises de corelação, de regressão linear e por fim fazer uma predição com os dados.
 
